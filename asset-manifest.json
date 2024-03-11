@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/kltn-client/static/js/main.fd9c75bb.js",
+    "static/js/823.909a925c.chunk.js": "/kltn-client/static/js/823.909a925c.chunk.js",
+    "static/js/328.95113797.chunk.js": "/kltn-client/static/js/328.95113797.chunk.js",
+    "static/js/200.5b1304e4.chunk.js": "/kltn-client/static/js/200.5b1304e4.chunk.js",
+    "static/js/27.5063989f.chunk.js": "/kltn-client/static/js/27.5063989f.chunk.js",
+    "index.html": "/kltn-client/index.html"
+  },
+  "entrypoints": [
+    "static/js/main.fd9c75bb.js"
+  ]
+}
